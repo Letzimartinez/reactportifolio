@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactportifolio/static/css/main.cf3add0c.css",
+    "main.js": "/reactportifolio/static/js/main.85240a3b.js",
+    "static/media/garage.png": "/reactportifolio/static/media/garage.bf7e8d2e4021cab0f0bc.png",
+    "static/media/travel.png": "/reactportifolio/static/media/travel.8674417211e25ecf8b9a.png",
+    "static/media/py.png": "/reactportifolio/static/media/py.d8b377f05522bf35de36.png",
+    "static/media/hosi.png": "/reactportifolio/static/media/hosi.0676e8eb1d52baf79ee9.png",
+    "static/media/hotel.png": "/reactportifolio/static/media/hotel.b7653232cb4fe677fa91.png",
+    "static/media/bootstrap.png": "/reactportifolio/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/php.png": "/reactportifolio/static/media/php.b59deec830f215d303b4.png",
+    "static/media/logo.png": "/reactportifolio/static/media/logo.b68ca75808e7986c96b5.png",
+    "static/media/react.png": "/reactportifolio/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/js.png": "/reactportifolio/static/media/js.1707d09a3f6f31bb97e8.png",
+    "static/media/c.png": "/reactportifolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/django.png": "/reactportifolio/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/HTML.png": "/reactportifolio/static/media/HTML.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/reactportifolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/java.png": "/reactportifolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/reactportifolio/index.html",
+    "main.cf3add0c.css.map": "/reactportifolio/static/css/main.cf3add0c.css.map",
+    "main.85240a3b.js.map": "/reactportifolio/static/js/main.85240a3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3add0c.css",
+    "static/js/main.85240a3b.js"
+  ]
+}
