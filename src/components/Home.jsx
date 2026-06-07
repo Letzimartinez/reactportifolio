@@ -12,7 +12,7 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-gray-50 text-lg">Hi, I am</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#00FFCA]">
-    Letzi Martinez
+    Lezti Martinez
         </h1>
         <div>
           <h2 className="text-2xl sm:text-4xl font-bold text-zinc-50 pt-2 flex">
